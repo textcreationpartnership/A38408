@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's most dreadful calamity by the late floods being a most lamentable account of the great damages sustained by the fearful invndations, caused by the unparalell'd rain which fell on the 24th of April, 1682 : and the late rains which have lately hapned : containing the several houses, barns, cattle, out-houses, stacks of hay and corn, being carried away : together with the number of persons drowned, and of some thousands of acres of ground layed under water : giving a relation of the particular damage sustained in the city of London, and the suburbs thereof, at Branford, Camberwell, Dulwich, Depford, on the river Thames ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38408</idno>
+            <idno type="STC">Wing E2999</idno>
+            <idno type="STC">ESTC R9454</idno>
+            <idno type="EEBO-CITATION">13280683</idno>
+            <idno type="OCLC">ocm 13280683</idno>
+            <idno type="VID">98747</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38408)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98747)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 453:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's most dreadful calamity by the late floods being a most lamentable account of the great damages sustained by the fearful invndations, caused by the unparalell'd rain which fell on the 24th of April, 1682 : and the late rains which have lately hapned : containing the several houses, barns, cattle, out-houses, stacks of hay and corn, being carried away : together with the number of persons drowned, and of some thousands of acres of ground layed under water : giving a relation of the particular damage sustained in the city of London, and the suburbs thereof, at Branford, Camberwell, Dulwich, Depford, on the river Thames ...</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby ...,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Flood damage --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Flood, 1682.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98747:1" rendition="simple:additions"/>
+            <p>
+               <hi>ENGLAND'S</hi> moſt Dreadful Calamity BY THE LATE FLOODS: Being a moſt Lamentable Account of the Great Damages ſuſtained by the Fearful <hi>IN<g ref="char:V">Ʋ</g>NDATIONS;</hi> CAUSED BY The Unparalell'd <hi>RAIN Which fell on the</hi> 24th <hi>of</hi> April, 1682.</p>
+            <p>And the Late <hi>Rains</hi> which have lately hapned.</p>
+            <p>Containing the ſeveral Houſes, Barns, Cattle, Out-houſes, Stacks of Hay and Corn, being carryed away: Together with the number of Perſons Drowned, and of ſome Thouſands of Acres of Ground layed under Water.</p>
+            <p>Giving a Relation of the particular Damage ſuſtain<g ref="char:EOLhyphen"/>ed in the City of <hi>London,</hi> and the Suburbs thereof; at <hi>Br<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>ford, Camberwell, Dulwich, Dep<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ford,</hi> on the River of <hi>Thames, Godmancheſter, Ripton,</hi> and many Towns near St. <hi>Ive's</hi> ſuffering much, many Houſes under water, and ſome people being drown<g ref="char:EOLhyphen"/>ed, a Coach and Six Horſes coming from <hi>York</hi> with 6 paſſengers, were all drown'd; with many of the <hi>Northern</hi> Carriers, ſome loſing their whole Teams, and their Waggons being over-turn'd and driven away in the ſtream, many others loſing all their Cat<g ref="char:EOLhyphen"/>tle, being drown'd, as Oxen, Sheep, Hogs, <hi>&amp;c.</hi> As like<g ref="char:EOLhyphen"/>wiſe, at <hi>Boſton</hi> in <hi>Lincoln-ſh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re, Dale</hi> in <hi>Suſſex,</hi> and other places in <hi>England</hi> and <hi>Scotland;</hi> The like Dreadful Calamity not having been known upon the like Occaſion.</p>
+            <p>Together with ſeveral Godly Exhortations to prevent ſuch judgements for the future, by a Timely Repentance.</p>
+            <p>Printed for <hi>P. Brooksby,</hi> in <hi>Woſt-Smithfield.</hi> 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:98747:2"/>
+            <pb n="1" facs="tcp:98747:2"/>
+            <head>
+               <hi>England's</hi> moſt Dreadful <hi>Calamity</hi> By the Late FLOODS,</head>
+            <p>ACcording to the Old Proverb, <hi>Water and Fire are two good Servants, but bad Maſters;</hi> For when either of them get the upper-hand, they ſhew no mercy, but with Impetuous Rage, deſtroy all before them, being by nature two of the furiouſeſt and irreſiſt<g ref="char:EOLhyphen"/>able Elements that operate in the Creation: But above all, the Deluges or raging Floods that have been cauſed in this Iſland by the former Rain, I think none is more to be noted then what has lately happened, the Relation of the Damages and exceeding Loſs ſuſtained by it, being the ſubject of this Sheet.</p>
+            <p>But to begin; On the 24th of <hi>April,</hi> this preſent year 1682. about 7 in the Evening it began to Rain (as in<g ref="char:EOLhyphen"/>deed it has for the greateſt part of this Spring, as every one can teſtifie) by little and little increaſing, till at laſt it fell with ſuch unwonted fury, that ſeveral people were beaten down with its Impetuoſity; for inſtead of uſual drops, it ſeemed as if it had been poured out of Buckets, or as a water-ſpout (which Marriners tell of) long hovering in the air, and whirled about with Winds, far lower then
+<pb n="2" facs="tcp:98747:3"/>the Cloud, at laſt falls, and if by chance, as oft it does, light on the Deck of a Ship, unleſs it be ſtrong built, it ſeldom miſſes to ſink the ſame.</p>
+            <p>This Rain had not continued above an hour, but the Streets of the City of <hi>London</hi> ſwam with Water ſo high, that in many places Boats might have Rowed; nor was that all, for ſeveral Ware-houſes and Cellers that lay low, received ſome three ſome four foot deep in Water, (by reaſon the Kennels were not able to vent it) to the great damage of the Merchandize contained therein, which at the leaſt value could not amount to leſs then 2000 pounds.</p>
+            <p>At <hi>Hockley in the Hole,</hi> in the Pariſh of St. <hi>James's Clerken-Well,</hi> it came down upon the Inhabitants like a Sea, driving away all that oppoſed it; inſomuch that it paſſed quite thorow ſeveral Houſes, carrying away good part of them, and cauſing the Goods in near 20 others to ſwim about; It took away part of a Brewhouſe, and made the Fats to ſwim as if they had been in ſome great River, ſo that many people were forced in that dreadful Calamity, to get to the tops of their Houſes, and there continued till the Waters were abated.</p>
+            <p>In <hi>Field-Lane</hi> it did no leſs ſpoil amongſt the ſlaughter-houſes, forcing open the doors, and carrying away ſeveral Hogs, and ſpoiling ſeveral Sheep and other Cattle that were ready dreſs'd, ſeveral of the Hogs being the next day found in <hi>Fleet-Ditch,</hi> and in the River of <hi>Thames,</hi> where they had been carryed by the violence of the Stream.</p>
+            <p>In <hi>Fleet-Ditch,</hi> although at Ebbing water, it filled the Ditch ſo full, that moſt, if not all the Cellers, were filled with with water, breaking the <hi>Halſers</hi> of 5 or 6 Lighters, laden with Coals, and driving them down the Stream,
+<pb n="3" facs="tcp:98747:3"/>where one of them running croſs, and ſtopping at <hi>Fleet-Bridge,</hi> the which ſtopping the reſt, three were ſunk and broak in pieces, the reſt being much batter'd, and at leaſt 50 Chaldron of Coals caſt away.</p>
+            <p>Two perſons coming that night from <hi>Craydon,</hi> having been at the Quarter-Seſſions holden there, and turning down <hi>Waſh-Lane,</hi> which leads from <hi>Briſtol</hi> Cauſ-way to <hi>Camberwell,</hi> the fearful Torrent meeting them, by de<g ref="char:EOLhyphen"/>ſcending down a Hill, threw up their Horſes heels, forced one of them through the Hedge, together with his horſe, where both periſhed in the water, whilſt the other by good luck getting hold of a Tree, hung there for ſome hours, and ſo ſaved himſelf, though, as we hear, his horſe was likewiſe drowned: the man that periſhed was the Maſter of the <hi>Kings-head</hi> at <hi>Camberwell.</hi>
+            </p>
+            <p>At <hi>Dulwich-Wells</hi> the Waters came down the Hill in ſuch a Torrent, that it over-turned many of the Huts ſet up there.</p>
+            <p>At <hi>Debtford</hi> the Rivers over-flowed, ſo that the Mea<g ref="char:EOLhyphen"/>dows were two or three Yards ſtanding water, where pe<g ref="char:EOLhyphen"/>riſhed ſeveral Cattle, as likewiſe a Youth coming from <hi>Luſham,</hi> was drowned.</p>
+            <p>A Boat coming from <hi>Wolwich</hi> to <hi>Greenwich,</hi> was ſo filled with Water on a ſudden with the exceſſive Rain, that e're they could put to ſhore, the Boat ſunk, and the Wa<g ref="char:EOLhyphen"/>ter-man hardly eſcaped; about a hundred Sculls and Skiffs that were faſtened in divers places ſunk likewiſe; as being filled brim-full with the Rain.</p>
+            <p>At <hi>Branford</hi> the ſame night, the Waters came down in ſuch abundance, that in the hither Town it drove down a great many Stables and out-Houſes, demoliſhing, de<g ref="char:EOLhyphen"/>facing, and carrying away part of ſix or ſeven dwelling houſes, ſo that the Inhabitants to ſave their Lives, were
+<pb n="4" facs="tcp:98747:4"/>forced to crawl on the tops of their Neighbours houſes, by getting out at the Garret Windows, and thoſe that had none, forced their way through the Roof; ſuch ſhifts will people make to avoid eminent danger; a great num<g ref="char:EOLhyphen"/>ber of Cattle and Poultry being found dead the next morning, ſome ſwiming in the River, and others leſt by the Water upon dry Land; ſo that in Hay, Corn, and other things, the damage could not be judged leſs worth then 600 pounds.</p>
+            <p>Near to <hi>Dale</hi> in <hi>Suſſex,</hi> the Sea at that time broke in and layed a hundred Acres of Land under water, drown<g ref="char:EOLhyphen"/>ing and carrying away many Cattle; as likewiſe break<g ref="char:EOLhyphen"/>ing ſeveral ſmall Veſſels, who by the force of the Sea, inraged by ſuch violent Rain, drew their Anchors, and were forced upon the Sands; ſix people we hear of like<g ref="char:EOLhyphen"/>wiſe drowned there, three of which were a drowned in a little houſe ſtanding by the Sea ſide, which was carryed away by the Flood.</p>
+            <p>At <hi>Boston</hi> in <hi>Lincoln-ſhire,</hi> the Rivers likewiſe over-flowed, and drowned a great part of the low Grounds, deſtroying ſix or ſeven Daries that were placed in them, and drowned ſeveral perſons, together with Cattle, and ſetting the Reeks of Hay, and Corn afloat; the <hi>Fens,</hi> a low Ground in that County, were likewiſe over-flow'd.</p>
+            <p>The River <hi>Trent</hi> likewiſe over-flowed on the 25th of <hi>April,</hi> by reaſon of the exceeding Land-Flood that pour<g ref="char:EOLhyphen"/>ed out into it, and by the Effuſion of Waters, laid the Meadows in a Sea, the which being abated, a great num<g ref="char:EOLhyphen"/>ber of goodly Fiſh were found upon the dry Land, ſome dead, ſome flouncing in the Oſiers; yet it did great damage by waſhing away the Corn; as likewiſe over-turning a Mill that ſtood upon the bank of the Ri<g ref="char:EOLhyphen"/>ver, wherein the Miller being at work, was drowned, and ſome Cattle carryed away.</p>
+            <pb n="5" facs="tcp:98747:4"/>
+            <p> The Inhabitants of many parts of the Biſhoprick of <hi>Durham,</hi> give us a doleful Relation of the great ſpoil the Floods have made amongſt them, and how that at preſent a great deal of their Corn lies under water, and the Rain continues ſo Inceſſant, that the like (for the Sea<g ref="char:EOLhyphen"/>ſon of the year) has not been known.</p>
+            <p>In the Town of <hi>Northampton,</hi> great damage has been ſuſtained by the late immoderate Rains, many Barns of Corn being ſpoiled, a great deal likewiſe carrryed a<g ref="char:EOLhyphen"/>way that was ready dreſſed upon the Floor.</p>
+            <p>The River <hi>Iſis</hi> at <hi>Oxford</hi> over-flowing, laid moſt of the Level under Water, which continued ſo for the ſpace of three days; and likewiſe by the Rain which was there accompanied with Thunder and Lightning, much dam<g ref="char:EOLhyphen"/>age was ſuſtained in the City.</p>
+            <p>Nor do all the Accounts from <hi>Scotland</hi> of the dire Effects of that terrible Night (for it ſeems it was Univer<g ref="char:EOLhyphen"/>ſal) differ from what we receive nearer home, it having done exceſſive damage in many parts of that Kingdom, as <hi>Leith, Glaſcow,</hi> St. <hi>Johnſtons,</hi> and other places adjacent; nay, as far as we can yet hear, it had its dreadful Effects in moſt neighbouring Kingdoms, to the great terror and amazement of ſuch as were eye-witneſſes to the Calami<g ref="char:EOLhyphen"/>ty, it occaſioned.</p>
+            <p>But what can we expect leſs, then that God ſhould ſend his Judgements abroad, when as Rebellious Man perſeveres in his obſtinate Rebellion againſt him? For certain it is, that the great Creator, who made what e<g ref="char:EOLhyphen"/>ver had beginning, can, when it pleaſes him, uſe any part of his Creation to puniſh his Enemies; as we may Read in <hi>Joſhua,</hi> when <hi>He ſhowered down Hail-ſtones to destroy the Wicked</hi> Canaanites; And in <hi>Egypts</hi> Evil day, to Curb the Pride of Rebellious <hi>Pharoah,</hi> he ſent Hail
+<pb n="6" facs="tcp:98747:5" rendition="simple:additions"/>mingled with Fire, accompanied with ſuch prodigious Thunder and Lightning, that the like before was never known; when God likewiſe was diſpleaſed with the Sons of Men, and that as he was pleaſed to expreſs him<g ref="char:EOLhyphen"/>ſelf, it grieved him at his very heart that he had made them, he did but command it and all the Elements con<g ref="char:EOLhyphen"/>ſpired to overflow the Globe of the Earth, the Clouds ſucked up the Sea, and poured it down in Streams; or as <hi>Moſes</hi> has it, <hi>The VVindows of Heaven were open,</hi> which were no other, then that the Clouds were cruſhed by ſtrong Winds, the Earth likewiſe obeying her Creators voice, opened every watery part, when Rivers guſhes, and Springs redole their force, the Fountains of the great deep was likewiſe broken, it would know no bounds: Nor have we wanted inſtances of the like nature in our age, as the late fearful Inundations of <hi>Holland,</hi> and other places, but above all, this preſent Relation for exceſſive Rain, has not been known in many Ages; ſo that ſome conjecture, had it held for 48 hours with the ſame vio<g ref="char:EOLhyphen"/>lence, it would have Lanced under Water, moſt of the Northern parts of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Godmancheſter, Ripton,</hi> and many Towns neer St. <hi>Ive's</hi> ſuffering much, many Houſes under water, and ſome people being drown'd; a Coach and ſix Horſes coming from <hi>York</hi> with ſix Paſſengers, were all drown'd; with many of the <hi>Northern</hi> Carriers, ſome loſing their whole Teams, and their Waggons being over-turn'd and driven away in the ſtream; many others loſing all, their Cattle being drown'd, as Oxen, Sheep, Hogs, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
